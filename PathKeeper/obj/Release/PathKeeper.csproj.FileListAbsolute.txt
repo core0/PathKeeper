@@ -1,0 +1,8 @@
+D:\coding\csharp\PathKeeper\PathKeeper\bin\Release\PathKeeper.exe
+D:\coding\csharp\PathKeeper\PathKeeper\bin\Release\PathKeeper.pdb
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\ResolveAssemblyReference.cache
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\PathKeeper.Form1.resources
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\PathKeeper.Properties.Resources.resources
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\PathKeeper.csproj.GenerateResource.Cache
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\PathKeeper.exe
+D:\coding\csharp\PathKeeper\PathKeeper\obj\Release\PathKeeper.pdb
